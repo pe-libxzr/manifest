@@ -47,4 +47,7 @@
 
   <remove-project name="platform/external/libfuse" />
   <project path="external/libfuse" name="external_libfuse" remote="project-ice" />
+
+  <remove-project name="platform/libcore" />
+  <project path="libcore" name="libcore" remote="project-ice" />
 </manifest>
