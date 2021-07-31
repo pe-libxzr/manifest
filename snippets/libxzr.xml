@@ -56,4 +56,7 @@
 
   <remove-project name="platform/external/openssh" />
   <project path="external/openssh" name="external_openssh" remote="project-ice" />
+
+  <remove-project name="platform/prebuilts/abi-dumps/vndk" />
+  <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="project-ice" />
 </manifest>
