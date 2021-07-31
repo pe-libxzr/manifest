@@ -16,4 +16,7 @@
 
   <remove-project name="vendor_aosp" />
   <project path="vendor/aosp" name="vendor_aosp" remote="libxzr-plus" />
+
+  <remove-project name="external_faceunlock" />
+  <project path="external/faceunlock" name="external_faceunlock" remote="libxzr" />
 </manifest>
