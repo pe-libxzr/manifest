@@ -50,4 +50,7 @@
 
   <remove-project name="platform/libcore" />
   <project path="libcore" name="libcore" remote="project-ice" />
+
+  <remove-project name="platform/external/sqlite" />
+  <project path="external/sqlite" name="external_sqlite" remote="project-ice" />
 </manifest>
