@@ -30,6 +30,9 @@
   <remove-project name="art" />
   <project path="art" name="art" remote="libxzr" />
 
+  <remove-project name="frameworks_native" />
+  <project path="frameworks/native" name="frameworks_native" remote="libxzr-plus" />
+
   <remove-project name="platform/external/jemalloc_new" />
   <project path="external/external/jemalloc_new" name="external_jemalloc_new" remote="project-ice" />
 
