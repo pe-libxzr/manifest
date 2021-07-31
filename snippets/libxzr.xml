@@ -22,4 +22,7 @@
 
   <remove-project name="bionic" />
   <project path="bionic" name="bionic" remote="libxzr" />
+
+  <remove-project name="art" />
+  <project path="art" name="art" remote="libxzr" />
 </manifest>
