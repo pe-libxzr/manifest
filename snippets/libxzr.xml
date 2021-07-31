@@ -10,4 +10,7 @@
 
   <remove-project name="manifest" />
   <project path="manifest" name="manifest" remote="libxzr-plus" />
+
+  <remove-project name="frameworks_base" />
+  <project path="frameworks/base" name="frameworks_base" remote="libxzr-plus" />
 </manifest>
