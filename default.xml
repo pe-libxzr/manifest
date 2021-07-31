@@ -844,4 +844,7 @@
   <!-- Add all PixelExperience repos -->
   <include name="snippets/pixel.xml" />
 
+  <!-- Add my repos -->
+  <include name="snippets/libxzr.xml" />
+
 </manifest>

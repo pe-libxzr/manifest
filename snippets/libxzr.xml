@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="libxzr-plus"
+          fetch="https://github.com/pe-libxzr"
+          revision="eleven-plus"/>
+
+  <remote name="libxzr"
+          fetch="https://github.com/pe-libxzr"
+          revision="eleven"/>
+</manifest>
