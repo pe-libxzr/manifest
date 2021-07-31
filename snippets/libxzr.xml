@@ -7,4 +7,7 @@
   <remote name="libxzr"
           fetch="https://github.com/pe-libxzr"
           revision="eleven"/>
+
+  <remove-project name="manifest" />
+  <project path="manifest" name="manifest" remote="libxzr-plus" />
 </manifest>
