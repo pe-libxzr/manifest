@@ -53,4 +53,7 @@
 
   <remove-project name="platform/external/sqlite" />
   <project path="external/sqlite" name="external_sqlite" remote="project-ice" />
+
+  <remove-project name="platform/external/openssh" />
+  <project path="external/openssh" name="external_openssh" remote="project-ice" />
 </manifest>
