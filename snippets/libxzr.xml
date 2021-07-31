@@ -41,4 +41,7 @@
 
   <remove-project name="platform/external/zlib" />
   <project path="external/zlib-ng" name="external_zlib-ng" remote="project-ice" />
+
+  <remove-project name="platform/external/libfuse" />
+  <project path="external/libfuse" name="external_libfuse" remote="project-ice" />
 </manifest>
