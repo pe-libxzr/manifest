@@ -8,6 +8,10 @@
           fetch="https://github.com/pe-libxzr"
           revision="eleven"/>
 
+  <remote name="project-ice"
+          fetch="https://github.com/Project-1CE"
+          revision="lineage-18.1"/>
+
   <remove-project name="manifest" />
   <project path="manifest" name="manifest" remote="libxzr-plus" />
 
@@ -25,4 +29,7 @@
 
   <remove-project name="art" />
   <project path="art" name="art" remote="libxzr" />
+
+  <remove-project name="platform/external/jemalloc_new" />
+  <project path="external/external/jemalloc_new" name="external_jemalloc_new" remote="project-ice" />
 </manifest>
