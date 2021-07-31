@@ -13,4 +13,7 @@
 
   <remove-project name="frameworks_base" />
   <project path="frameworks/base" name="frameworks_base" remote="libxzr-plus" />
+
+  <remove-project name="vendor_aosp" />
+  <project path="vendor/aosp" name="vendor_aosp" remote="libxzr-plus" />
 </manifest>
