@@ -32,4 +32,7 @@
 
   <remove-project name="platform/external/jemalloc_new" />
   <project path="external/external/jemalloc_new" name="external_jemalloc_new" remote="project-ice" />
+
+  <remove-project name="platform/external/libpng" />
+  <project path="external/libpng" name="external_libpng" remote="project-ice" />
 </manifest>
