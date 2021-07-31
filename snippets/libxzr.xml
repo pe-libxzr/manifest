@@ -38,4 +38,7 @@
 
   <remove-project name="platform/external/libjpeg-turbo" />
   <project path="external/libjpeg-turbo" name="external_libjpeg-turbo" remote="project-ice" />
+
+  <remove-project name="platform/external/zlib" />
+  <project path="external/zlib-ng" name="external_zlib-ng" remote="project-ice" />
 </manifest>
