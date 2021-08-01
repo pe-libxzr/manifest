@@ -62,4 +62,7 @@
 
   <remove-project name="platform/prebuilts/abi-dumps/ndk" />
   <project path="prebuilts/abi-dumps/ndk" name="prebuilts_abi-dumps_ndk" remote="project-ice" />
+
+  <remove-project name="tools_metalava" />
+  <project path="tools/metalava" name="tools_metalava" remote="project-ice" />
 </manifest>
