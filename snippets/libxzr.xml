@@ -59,4 +59,7 @@
 
   <remove-project name="platform/prebuilts/abi-dumps/vndk" />
   <project path="prebuilts/abi-dumps/vndk" name="prebuilts_abi-dumps_vndk" remote="project-ice" />
+
+  <remove-project name="platform/prebuilts/abi-dumps/ndk" />
+  <project path="prebuilts/abi-dumps/ndk" name="prebuilts_abi-dumps_ndk" remote="project-ice" />
 </manifest>
