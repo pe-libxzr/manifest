@@ -67,4 +67,7 @@
   <project path="tools/metalava" name="tools_metalava" remote="project-ice" />
 
   <project name="Project-1CE/external_asus_stitchimage" path="external/asus/stitchimage" remote="gitlab" revision="lineage-18.1" />
+
+  <remove-project name="platform/packages/modules/NetworkStack" />
+  <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="project-ice" />
 </manifest>
