@@ -70,4 +70,7 @@
 
   <remove-project name="platform/packages/modules/NetworkStack" />
   <project path="packages/modules/NetworkStack" name="packages_modules_NetworkStack" remote="project-ice" />
+
+  <remove-project name="packages_apps_TouchGestures" />
+  <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="libxzr" />
 </manifest>
