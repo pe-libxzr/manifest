@@ -73,4 +73,7 @@
 
   <remove-project name="packages_apps_TouchGestures" />
   <project path="packages/apps/TouchGestures" name="packages_apps_TouchGestures" remote="libxzr" />
+
+  <remove-project name="packages_apps_Settings" />
+  <project path="packages/apps/Settings" name="packages_apps_Settings" remote="libxzr-plus" />
 </manifest>
