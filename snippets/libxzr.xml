@@ -76,4 +76,7 @@
 
   <remove-project name="packages_apps_Settings" />
   <project path="packages/apps/Settings" name="packages_apps_Settings" remote="libxzr-plus" />
+
+  <remove-project name="platform/packages/apps/SecureElement" />
+  <project path="packages/apps/SecureElement" name="packages_apps_SecureElement" remote="libxzr" />
 </manifest>
