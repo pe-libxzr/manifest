@@ -79,4 +79,7 @@
 
   <remove-project name="platform/packages/apps/SecureElement" />
   <project path="packages/apps/SecureElement" name="packages_apps_SecureElement" remote="libxzr" />
+
+  <remove-project name="packages_apps_CarrierConfig" />
+  <project path="packages/apps/CarrierConfig" name="packages_apps_CarrierConfig" remote="libxzr" />
 </manifest>
