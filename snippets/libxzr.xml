@@ -93,4 +93,7 @@
     <linkfile src="target" dest="build/target" />
     <linkfile src="tools" dest="build/tools" />
   </project>
+
+  <remove-project name="system_sepolicy" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="libxzr" />
 </manifest>
