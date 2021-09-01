@@ -99,4 +99,6 @@
 
   <remove-project name="device_custom_sepolicy" />
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="libxzr" />
+
+  <project path="hardware/libxzr" name="hardware_libxzr" remote="libxzr" />
 </manifest>
