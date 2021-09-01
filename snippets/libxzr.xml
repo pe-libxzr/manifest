@@ -96,4 +96,7 @@
 
   <remove-project name="system_sepolicy" />
   <project path="system/sepolicy" name="system_sepolicy" remote="libxzr" />
+
+  <remove-project name="device_custom_sepolicy" />
+  <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="libxzr" />
 </manifest>
