@@ -101,4 +101,7 @@
   <project path="device/custom/sepolicy" name="device_custom_sepolicy" remote="libxzr" />
 
   <project path="hardware/libxzr" name="hardware_libxzr" remote="libxzr" />
+
+  <remove-project name="platform/external/lz4" />
+  <project path="external/lz4" name="external_lz4" remote="project-ice" />
 </manifest>
