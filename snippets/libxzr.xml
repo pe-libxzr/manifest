@@ -25,7 +25,7 @@
   <project path="external/faceunlock" name="external_faceunlock" remote="libxzr" />
 
   <remove-project name="bionic" />
-  <project path="bionic" name="bionic" remote="libxzr" />
+  <project path="bionic" name="bionic" remote="project-ice" />
 
   <remove-project name="art" />
   <project path="art" name="art" remote="project-ice" />
