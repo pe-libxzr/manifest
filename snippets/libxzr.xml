@@ -28,7 +28,7 @@
   <project path="bionic" name="bionic" remote="libxzr" />
 
   <remove-project name="art" />
-  <project path="art" name="art" remote="libxzr" />
+  <project path="art" name="art" remote="project-ice" />
 
   <remove-project name="frameworks_native" />
   <project path="frameworks/native" name="frameworks_native" remote="libxzr-plus" />
