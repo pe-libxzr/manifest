@@ -109,4 +109,6 @@
   <project path="external/lz4" name="external_lz4" remote="project-ice" />
 
   <project path="packages/apps/NRModeSwitcher" name="NRModeSwitcher" remote="libxzr-personal" revision="master" />
+
+  <project path="packages/apps/SingleTapToLock" name="SingleTapToLock" remote="libxzr-personal" revision="master" />
 </manifest>
