@@ -108,4 +108,7 @@
   <project path="packages/apps/NRModeSwitcher" name="NRModeSwitcher" remote="libxzr-personal" revision="master" />
 
   <project path="packages/apps/SingleTapToLock" name="SingleTapToLock" remote="libxzr-personal" revision="master" />
+
+  <remove-project name="frameworks_opt_telephony" />
+  <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="libxzr" />
 </manifest>
