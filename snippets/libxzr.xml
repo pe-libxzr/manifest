@@ -111,4 +111,15 @@
 
   <remove-project name="frameworks_opt_telephony" />
   <project path="frameworks/opt/telephony" name="frameworks_opt_telephony" remote="libxzr" />
+
+  <project path="device/oneplus/common" name="device_oneplus_common" remote="libxzr" />
+  <project path="device/oneplus/sm8250-common" name="device_oneplus_sm8250-common" remote="libxzr-plus" />
+  <project path="device/oneplus/instantnoodle" name="device_oneplus_instantnoodle" remote="libxzr-plus" />
+  <project path="device/oneplus/instantnoodlep" name="device_oneplus_instantnoodlep" remote="libxzr-plus" />
+  <project path="device/oneplus/kebab" name="device_oneplus_kebab" remote="libxzr-plus" />
+  <project path="vendor/oneplus/sm8250-common" name="vendor_oneplus_sm8250-common" remote="libxzr" />
+  <project path="vendor/oneplus/instantnoodle" name="vendor_oneplus_instantnoodle" remote="libxzr" />
+  <project path="vendor/oneplus/instantnoodlep" name="vendor_oneplus_instantnoodlep" remote="libxzr" />
+  <project path="vendor/oneplus/kebab" name="vendor_oneplus_kebab" remote="libxzr" />
+  <project path="kernel/oneplus/sm8250" name="android_kernel_oneplus_sm8250" remote="libxzr" />
 </manifest>
