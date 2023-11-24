@@ -15,6 +15,9 @@
   <remote name="libxzr-personal"
           fetch="https://github.com/libxzr"/>
 
+  <remote name="kdrag0n"
+          fetch="https://github.com/kdrag0n"/>
+
   <remove-project name="manifest" />
   <project path="manifest" name="manifest" remote="libxzr-plus" />
 
@@ -122,4 +125,5 @@
   <project path="vendor/oneplus/instantnoodlep" name="vendor_oneplus_instantnoodlep" remote="libxzr" />
   <project path="vendor/oneplus/kebab" name="vendor_oneplus_kebab" remote="libxzr" />
   <project path="kernel/oneplus/sm8250" name="android_kernel_oneplus_sm8250" remote="libxzr" />
+  <project path="prebuilts/clang/proton" name="proton-clang" remote="kdrag0n" revision="master" clone-depth="1" />
 </manifest>
