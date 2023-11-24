@@ -12,7 +12,7 @@
           fetch="https://github.com/Project-1CE"
           revision="lineage-18.1"/>
 
-    <remote name="libxzr-personal"
+  <remote name="libxzr-personal"
           fetch="https://github.com/libxzr"/>
 
   <remove-project name="manifest" />
